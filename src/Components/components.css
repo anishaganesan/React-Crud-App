@@ -1,0 +1,24 @@
+.neuro{
+    border-radius: 13px;
+background: #d7e9e0;
+box-shadow:  10px 10px 20px #727272,
+             -10px -10px 20px #eef5f1;
+
+  }
+  .neuro2{
+    border-radius: 13px;
+background: #d7e9e0;
+box-shadow:  10px 10px 20px #727272,
+             -10px -10px 20px #eef5f1;
+             max-height: 100%;
+  }
+
+  .neuro1{
+    border-radius: 21px;
+background: #dbf0d5;
+box-shadow:  17px 17px 33px #586055,
+             -17px -17px 33px #ffffff;
+             width: '80%';
+             margin: '50px 100px 100px 140px';
+  }
+  

@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "firstname": "kutta",
+      "lastname": "Harish",
+      "gender": "male",
+      "phone": "12345678",
+      "countryname": "Bahamas",
+      "statename": "Freeport",
+      "cityname": "Lucaya",
+      "id": 12
+    },
+    {
+      "firstname": "anisha",
+      "lastname": "g",
+      "gender": "female",
+      "phone": "8220553083",
+      "countryname": "India",
+      "statename": "Kerala",
+      "cityname": "Kottayam",
+      "id": 15
+    },
+    {
+      "firstname": "abcd",
+      "lastname": "gh",
+      "gender": "female",
+      "phone": "8220553083",
+      "countryname": "India",
+      "statename": "Karnataka",
+      "cityname": "Basavana Bāgevādi",
+      "id": 16
+    },
+    {
+      "firstname": "raju",
+      "lastname": "g",
+      "gender": "male",
+      "phone": "9860672795",
+      "countryname": "Austria",
+      "statename": "Styria",
+      "cityname": "Leoben",
+      "id": 17
+    },
+    {
+      "firstname": "aaaaa",
+      "lastname": "lastname",
+      "gender": "male",
+      "phone": "123434546",
+      "countryname": "Australia",
+      "statename": "South Australia",
+      "cityname": "Gawler",
+      "id": 18
+    }
+  ]
+}
